@@ -216,7 +216,3 @@ AI / ML Enthusiast
 * OpenAI Gym
 * Box2D Physics Engine
 * PyTorch Community
-
-
-Just tell me 👍
-```
